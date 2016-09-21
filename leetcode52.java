@@ -33,6 +33,7 @@ public class Leetcode52 {
 					subList.add(nums[i]);
 				list.add(subList);
 			}
+			return ;
 		}
 		
 		for(int i=pos;i<nums.length;i++){
